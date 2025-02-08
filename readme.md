@@ -15,3 +15,4 @@ This is a **Streamlit-based** application that extracts **specific info like pre
    git clone https://github.com/basharat0592/pdf-information-extractor.git
    cd pdf-information-extractor
    pip install -r requirements.txt
+   streamlit run app.py
